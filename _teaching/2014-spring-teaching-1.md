@@ -1,6 +1,6 @@
 ---
+collection: Undergraduate Courses
 title: "Teaching Experience: Course Descriptions"
-collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/course-descriptions
 venue: "Carnegie Mellon University, English Department"
